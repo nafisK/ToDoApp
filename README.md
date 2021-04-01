@@ -31,7 +31,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-This submission is intended for the pre work for the tech fellowship of CodePath
+This submission is intended for the pre work of the tech fellowship of CodePath
 
 Describe any challenges encountered while building the app.
 
